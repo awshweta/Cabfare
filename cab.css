@@ -51,8 +51,11 @@
 	position: absolute;
 }
 .mid {
+	width:30%;
 	margin-top: 1%;
 	margin-bottom: 2%;
+	margin-left:3%;
+	margin-right: 3%;
 }
 .right {
 	background-color: white;
